@@ -1,0 +1,5 @@
+google-generativeai
+aiohttp
+python-dotenv
+sentence-transformers
+torch
